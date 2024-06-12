@@ -11,6 +11,8 @@
 * To login to mysql instance: Open new terminal and use following command:
       a.	sudo systemctl enable mysql
       b.	sudo systemctl start mysql
+      NOTE: After typing any of the above commands you might encounter any warnings.
+      --> Please note that these warnings are expected and can be disregarded. Proceed to the next step.
       c.	mysql -u root -p
 The last command will ask for password which is ‘pass@word1’
 
