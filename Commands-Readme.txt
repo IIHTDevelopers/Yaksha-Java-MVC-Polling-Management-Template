@@ -2,7 +2,7 @@
 	mvn clean package -Dmaven.test.skip
 
 * To launch your application, move into the target folder (cd target). Run the following command to run the application:
-	java -jar springboot-matrimony-service-0.0.1-SNAPSHOT.war
+	java -jar springboot-onlinevoting-service-0.0.1-SNAPSHOT
 
 * Default credentials for MySQL:
 	Username: root
